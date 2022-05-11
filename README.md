@@ -13,7 +13,7 @@ Junior Full-Stack Developer, passionate about developing my skills.
 
 Technologies used:
 
--Language
+<h6>Language</h6>
 <p>
   <img height=40 src="https://codingthesmartway.com/wp-content/uploads/2019/01/logo_javascript-300x300.png" />
 </p>
