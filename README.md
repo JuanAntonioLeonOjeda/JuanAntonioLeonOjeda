@@ -6,7 +6,11 @@
   <a href="mailto:jalojr70@gmail.com"><img height=40 src="https://logos-download.com/wp-content/uploads/2016/05/Gmail_logo_icon.png" /></a>
 </p>
 
+https://www.codewars.com/users/Juanan237/badges/small
+
 Junior Full-Stack Developer, passionate about developing my skills.
+
+<a target="_blank"href="https://www.codewars.com/users/Juanan237"><img src="https://www.codewars.com/users/Juanan237/badges/small" /></a>
 
 Technologies used:
 
