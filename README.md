@@ -1,6 +1,6 @@
 ### Hi there! I'm Juan Antonio 👋
 
-<h5 align="center">Contact info:</h5>
+<h5 align="center">   Contact info:</h5>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/juan-antonio-leon-ojeda/"><img height=40 src="https://www.texber.com/wp-content/uploads/2020/04/logo-Linkedin-1.png" /></a>
   <a href="mailto:jalojr70@gmail.com"><img height=40 src="https://logospng.org/download/gmail/logo-gmail-2048.png" /></a>
