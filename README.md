@@ -46,6 +46,7 @@ Technologies used:
 <p>
   <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" />
   <img height=40 src="https://raw.githubusercontent.com/JuanAntonioLeonOjeda/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
+  <img height=40 src="http://ww1.prweb.com/prfiles/2018/10/05/15812110/postman-logo-vert-2018.png" />
   <img height=40 src="https://raw.githubusercontent.com/JuanAntonioLeonOjeda/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" />
   <img height=40 src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />
   <img height=40 src="https://github.com/JuanAntonioLeonOjeda/devicon/blob/master/icons/socketio/socketio-original.svg" />
