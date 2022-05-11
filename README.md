@@ -20,7 +20,7 @@ Technologies used:
 
 <h6>Front-End</h6>
 <p>
-  <img height=40 src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" />
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" />
   <img height=40 src="https://www.pinclipart.com/picdir/middle/26-268853_clipart-black-and-white-file-css-logo-and.png" />
 </p>
 <!--
