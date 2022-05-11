@@ -14,7 +14,9 @@ Junior Full-Stack Developer, passionate about developing my skills.
 Technologies used:
 
 -Language
-<img height=40 src="https://codingthesmartway.com/wp-content/uploads/2019/01/logo_javascript-300x300.png" />
+<p>
+  <img height=40 src="https://codingthesmartway.com/wp-content/uploads/2019/01/logo_javascript-300x300.png" />
+</p>
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
