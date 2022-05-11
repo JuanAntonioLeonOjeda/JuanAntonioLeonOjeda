@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! I'm Juan Antonio 👋
 
 <h5 align="center">Contact info:</h5>
 <p align="center">
@@ -6,6 +6,8 @@
   <a href="mailto:jalojr70@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=flat&logo=gmail" /></a>
 </p>
 
+
+<img height=50 src="https://www.texber.com/wp-content/uploads/2020/04/logo-Linkedin-1.png" />
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
