@@ -47,7 +47,7 @@ Technologies used:
   <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" />
   <img height=40 src="https://raw.githubusercontent.com/JuanAntonioLeonOjeda/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
   <img height=40 src="https://raw.githubusercontent.com/JuanAntonioLeonOjeda/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" />
-  <img height=40 src="https://www.vhv.rs/dpng/d/499-4996069_postman-logo-circle-hd-png-download.png" />
+  <img height=40 src="https://github.com/JuanAntonioLeonOjeda/devicon/blob/master/icons/socketio/socketio-original.svg" />
 </p>
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
