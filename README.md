@@ -21,7 +21,32 @@ Technologies used:
 <h6>Front-End</h6>
 <p>
   <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" />
-  <img height=40 src="https://www.pinclipart.com/picdir/middle/26-268853_clipart-black-and-white-file-css-logo-and.png" />
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" />
+</p>
+
+<h6>Back-End</h6>
+<p>
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" />
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" />
+</p>
+
+<h6>Databases</h6>
+<p>
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" />
+</p>
+
+<h6>Frameworks</h6>
+<p>
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" />
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg" />
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuetify/vuetify-original.svg" />
+</p>
+
+<h6>Others</h6>
+<p>
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" />
+  <img height=40 src="https://raw.githubusercontent.com/JuanAntonioLeonOjeda/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
+  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuetify/vuetify-original.svg" />
 </p>
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
