@@ -48,6 +48,7 @@ Technologies used:
   <img height=40 src="https://raw.githubusercontent.com/JuanAntonioLeonOjeda/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
   <img height=40 src="https://raw.githubusercontent.com/JuanAntonioLeonOjeda/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" />
   <img height=40 src="https://github.com/JuanAntonioLeonOjeda/devicon/blob/master/icons/socketio/socketio-original.svg" />
+  <img height=40 src="https://www.voipone.ch/wp-content/uploads/2019/05/WebRTC-Logo.png" />
 </p>
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
