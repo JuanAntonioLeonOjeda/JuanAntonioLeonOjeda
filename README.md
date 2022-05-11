@@ -2,7 +2,7 @@
 
 <h5 align="center">Contact info:</h5>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/juan-antonio-leon-ojeda/"><img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/juan-antonio-leon-ojeda/"><img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin" /></a>
 </p>
 
 <!--
