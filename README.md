@@ -9,8 +9,9 @@
 https://www.codewars.com/users/Juanan237/badges/small
 
 Junior Full-Stack Developer, passionate about developing my skills.
-
-<a target="_blank"href="https://www.codewars.com/users/Juanan237"><img src="https://www.codewars.com/users/Juanan237/badges/small" /></a>
+<p>
+  <a target="_blank"href="https://www.codewars.com/users/Juanan237"><img src="https://www.codewars.com/users/Juanan237/badges/small" /></a>
+</p>
 
 Technologies used:
 
