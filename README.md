@@ -2,8 +2,9 @@
 
 <h3 align="center">Contact info:</h3>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/juan-antonio-leon-ojeda/"><img src="http://everything-pr.com/wp-content/uploads/2010/01/linkedin-logo.jpg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/juan-antonio-leon-ojeda/"><img src="https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
