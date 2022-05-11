@@ -21,7 +21,7 @@ Technologies used:
 <h6>Front-End</h6>
 <p>
   <img height=40 src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg" />
-  <img height=40 src="https://image.pngaaa.com/311/3920311-middle.png" />
+  <img height=40 src="https://clipground.com/images/css-3-logo-clipart.jpg" />
 </p>
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
