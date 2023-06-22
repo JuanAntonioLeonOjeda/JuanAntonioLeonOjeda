@@ -54,7 +54,7 @@ Junior Full-Stack Developer, passionate about developing my skills.
 </p>
 
 ### Stats:
-[](https://github-readme-streak-stats.herokuapp.com/?user=JuanAntonioLeonOjeda)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanAntonioLeonOjeda)](https://git.io/streak-stats)
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
