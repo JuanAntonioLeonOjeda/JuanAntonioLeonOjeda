@@ -55,6 +55,8 @@ Junior Full-Stack Developer, passionate about developing my skills.
 
 ### Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JuanAntonioLeonOjeda&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAntonioLeonOjeda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
