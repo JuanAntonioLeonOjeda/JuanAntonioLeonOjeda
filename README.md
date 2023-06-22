@@ -52,6 +52,9 @@ Junior Full-Stack Developer, passionate about developing my skills.
   <img height=40 src="https://github.com/JuanAntonioLeonOjeda/devicon/blob/master/icons/socketio/socketio-original.svg" />
   <img height=40 src="https://www.voipone.ch/wp-content/uploads/2019/05/WebRTC-Logo.png" />
 </p>
+
+### Stats:
+[](https://github-readme-streak-stats.herokuapp.com/?user=JuanAntonioLeonOjeda)
 <!--
 **JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
