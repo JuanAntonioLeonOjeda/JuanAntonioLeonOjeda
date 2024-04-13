@@ -15,7 +15,7 @@ Junior Full-Stack Developer, passionate about developing my skills.
 
 <h6>Language</h6>
 <p>
-  <img height=40 src="https://codingthesmartway.com/wp-content/uploads/2019/01/logo_javascript-300x300.png" />
+  <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 </p>
 
 <h6>Front-End</h6>
