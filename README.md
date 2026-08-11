@@ -1,73 +1,55 @@
-### Hi there! I'm Juan Antonio 👋
+<h1 align="center">Hi there! I'm Juan Antonio 👋</h1>
 
-<h5 align="center">Contact info:</h5>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/juan-antonio-leon-ojeda/"><img height=40 src="https://www.texber.com/wp-content/uploads/2020/04/logo-Linkedin-1.png" /></a>
-  <a href="mailto:jalojr70@gmail.com"><img height=40 src="https://logos-download.com/wp-content/uploads/2016/05/Gmail_logo_icon.png" /></a>
+  <a href="https://www.linkedin.com/in/juan-antonio-leon-ojeda/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jalojr70@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/JuanAntonioLeonOjeda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-Junior Full-Stack Developer, passionate about developing my skills.
-<p>
-  <a target="_blank"href="https://www.codewars.com/users/Juanan237"><img src="https://www.codewars.com/users/Juanan237/badges/small" /></a>
+<p align="center">
+  <a href="https://www.codewars.com/users/Juanan237" target="_blank">
+    <img src="https://www.codewars.com/users/Juanan237/badges/small" />
+  </a>
 </p>
 
-### Technologies used:
+---
 
-<h6>Language</h6>
-<p>
-  <img height=40 src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
+**Full-Stack Developer** @ POWERBIM — building digital twin software for buildings and infrastructure.
+
+Four years shipping web and mobile products, from architecture decisions to production. Previously full-stack developer and instructor at Reboot Academy. Mechanical engineer by training, which is why I enjoy software that touches the physical world.
+
+Currently finishing an **MSc in AI Development** (Universidad Internacional de Valencia). All coursework completed; my thesis is a computer vision model for detecting bone fragility from X-ray images.
+
+- 🔭 Working on digital twins, BIM data pipelines and AR/mobile apps
+- 🌱 Deep learning and computer vision applied to medical imaging
+- 💬 Ask me about React, Vue, Node, or moving from engineering into software
+
+---
+
+### Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,svelte,tailwind&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sequelize&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,jest,redis&theme=dark" />
 </p>
 
-<h6>Front-End</h6>
-<p>
-  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" />
-  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" />
-</p>
+---
 
-<h6>Back-End</h6>
-<p>
-  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" />
-  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" />
-</p>
+### Selected projects
 
-<h6>Databases</h6>
-<p>
-  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" />
-</p>
-
-<h6>Frameworks</h6>
-<p>
-  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" />
-  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg" />
-  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuetify/vuetify-original.svg" />
-</p>
-
-<h6>Others</h6>
-<p>
-  <img height=40 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" />
-  <img height=40 src="https://raw.githubusercontent.com/JuanAntonioLeonOjeda/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" />
-  <img height=40 src="http://ww1.prweb.com/prfiles/2018/10/05/15812110/postman-logo-vert-2018.png" />
-  <img height=40 src="https://raw.githubusercontent.com/JuanAntonioLeonOjeda/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" />
-  <img height=40 src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />
-  <img height=40 src="https://github.com/JuanAntonioLeonOjeda/devicon/blob/master/icons/socketio/socketio-original.svg" />
-  <img height=40 src="https://www.voipone.ch/wp-content/uploads/2019/05/WebRTC-Logo.png" />
-</p>
-
-### Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanAntonioLeonOjeda&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanAntonioLeonOjeda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**JuanAntonioLeonOjeda/JuanAntonioLeonOjeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **ElectroTaro** | EV charging platform with real-time charger communication over OCPP and immutable renewable-energy records on Stellar | React · Express · MongoDB · WebSockets · Stripe |
+| **Atrimonitor** | Geospatial data analysis portal with interactive maps, layered territorial filtering and CSV-driven updates | React · Express · MongoDB · Leaflet · D3 |
+| **Evente** | Event aggregator built on a scraping pipeline | Nuxt · Express · MongoDB |
+| **Reboot Talent** | Talent-matching tool with LLM-assisted profile analysis | Vue · Express · MongoDB · OpenAI |
