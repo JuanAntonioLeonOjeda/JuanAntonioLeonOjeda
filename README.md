@@ -22,11 +22,6 @@
 Four years shipping web and mobile products, from architecture decisions to production. Previously full-stack developer and instructor at Reboot Academy. Mechanical engineer by training, which is why I enjoy software that touches the physical world.
 
 Currently finishing an **MSc in AI Development** (Universidad Internacional de Valencia). All coursework completed; my thesis is a computer vision model for detecting bone fragility from X-ray images.
-
-- 🔭 Working on digital twins, BIM data pipelines and AR/mobile apps
-- 🌱 Deep learning and computer vision applied to medical imaging
-- 💬 Ask me about React, Vue, Node, or moving from engineering into software
-
 ---
 
 ### Tech
