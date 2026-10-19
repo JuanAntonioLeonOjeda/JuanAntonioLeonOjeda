@@ -35,14 +35,3 @@ Currently finishing an **MSc in AI Development** (Universidad Internacional de V
   <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,git,jest,redis&theme=dark" />
 </p>
-
----
-
-### Selected projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **ElectroTaro** | EV charging platform with real-time charger communication over OCPP and immutable renewable-energy records on Stellar | React · Express · MongoDB · WebSockets · Stripe |
-| **Atrimonitor** | Geospatial data analysis portal with interactive maps, layered territorial filtering and CSV-driven updates | React · Express · MongoDB · Leaflet · D3 |
-| **Evente** | Event aggregator built on a scraping pipeline | Nuxt · Express · MongoDB |
-| **Reboot Talent** | Talent-matching tool with LLM-assisted profile analysis | Vue · Express · MongoDB · OpenAI |
